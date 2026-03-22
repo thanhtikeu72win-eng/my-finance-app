@@ -1,0 +1,16 @@
+{
+  "name": "Finance Pro",
+  "short_name": "Finance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
